@@ -14,7 +14,7 @@ It also demonstrates basic data cleaning and transformation using pandas.
 - Interactive map of fossil locations
 - Bar chart for dinosaur diet distribution
 - Horizontal Bar Chart for dinosaur fossil counts per family
-- A pivot table to dinosaur fossil counts per family by country in the Americas
+- A pivot table of dinosaur fossil counts per family by country in the Americas
 - Scatter plot to show each collection years
 - Data sourced from [The Paleobiology Database](https://paleobiodb.org/#/)
 

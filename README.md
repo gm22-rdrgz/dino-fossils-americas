@@ -33,7 +33,7 @@ actively used in this project, I often use it in practice projects for basic dat
 transformation, such as handling null values and performing simple ETL operations. 
 I included it here just in case it was needed.
 
-GitHub does not display Folium maps directly in .ipynb files, so I have saved the map as a .html file for viewing. 
+GitHub does not display Folium maps directly in .ipynb files, so I have saved the map as an .html file for viewing. 
 Also, I left the collection year as an object data type because some years are sparse, formatted differently, 
 or multiple years exist for a single fossil. This approach preserves the integrity of the original records.
 

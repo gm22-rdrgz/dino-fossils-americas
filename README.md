@@ -1,5 +1,5 @@
-# Project Title
-Dino Fossil Mapping & Visualization
+## Project Title
+**Dino Fossil Mapping & Visualization**
 
 Created: 08/29/2025
 

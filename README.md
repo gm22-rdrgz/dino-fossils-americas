@@ -19,12 +19,12 @@ It also demonstrates basic data cleaning and transformation using pandas.
 - Data sourced from [The Paleobiology Database](https://paleobiodb.org/#/)
 
 ## Libraries
-- pandas
-- numpy            (included but not used in this project)
-- matplotlib
-- matplotlib.pyplot
-- seaborn
-- folium
+- `pandas`
+- `numpy`            (included but not used in this project)
+- `matplotlib`
+- `matplotlib.pyplot`
+- `seaborn`
+- `folium`
   
 ## Notes
 The dataset was limited to 500 records for this project for simplicity, but the Paleobiology 
